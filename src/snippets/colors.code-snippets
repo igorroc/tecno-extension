@@ -1,0 +1,32 @@
+{
+	"TecnoJr - Primary Blue": {
+		"prefix": "blue1",
+		"body": ["#5A7BE7"],
+		"description": "Inserts primary blue color"
+	},
+	"TecnoJr - Secondary Blue": {
+		"prefix": "blue2",
+		"body": ["#3550BB"],
+		"description": "Inserts secondary blue color"
+	},
+	"TecnoJr - Tertiary Blue": {
+		"prefix": "blue3",
+		"body": ["#273B8B"],
+		"description": "Inserts tertiary blue color"
+	},
+	"TecnoJr - Primary Purple": {
+		"prefix": "purple1",
+		"body": ["#CC8AFF"],
+		"description": "Inserts primary purple color"
+	},
+	"TecnoJr - Secondary Purple": {
+		"prefix": "purple2",
+		"body": ["#9256EB"],
+		"description": "Inserts secondary purple color"
+	},
+	"TecnoJr - Tertiary Purple": {
+		"prefix": "purple3",
+		"body": ["#5E16CA"],
+		"description": "Inserts tertiary purple color"
+	}
+}
