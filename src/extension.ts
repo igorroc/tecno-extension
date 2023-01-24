@@ -1,7 +1,5 @@
 import * as vscode from "vscode";
 
-require("dotenv").config();
-
 const links = [
 	{
 		label: "Tecno Site",

@@ -1,10 +1,10 @@
 {
 	"name": "tecnocode",
 	"displayName": "TecnoCode",
-	"description": "A VS Code extension for TecnoJr projects",
-	"icon": "assets/white_logo.png",
+	"description": "Uma extensão para os desenvolvedores da TecnoJr",
+	"icon": "https://raw.githubusercontent.com/igorroc/tecno-extension/main/assets/white_logo.png",
 	"publisher": "tecnojr",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
@@ -66,9 +66,5 @@
 		"mocha": "^10.0.0",
 		"typescript": "^4.7.2"
 	},
-	"repository": "https://github.com/igorroc/tecno-extension",
-	"dependencies": {
-		"axios": "^1.2.3",
-		"dotenv": "^16.0.3"
-	}
+	"repository": "https://github.com/igorroc/tecno-extension"
 }

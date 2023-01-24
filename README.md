@@ -1,6 +1,29 @@
-# TecnoCode README
+# TecnoCode
+
+Uma extensão para ajudar os desenvolvedores da [TecnoJr](https://tecnojr.com.br) a escreverem códigos mais rápido.
 
 ## Features
+
+### Comandos
+
+-   **tecnocode.links**:
+
+    -   Mostra um seletor de links uteis da tecno, como:
+        -   TecnoSite
+        -   Github da Tecno
+        -   Github do DevTeam
+
+-   **tecnocode.prettier**:
+
+    -   Cria o arquivo de configuração do prettier
+
+-   **tecnocode.readme**
+
+    -   Cria um arquivo README.md com o template da Tecno
+
+-   **tecnocode.colors**
+
+    -   Mostra um seletor de cores da Tecno
 
 ### Snippets
 
@@ -30,12 +53,17 @@
 
 ## Release Notes
 
+### 1.1.0
+
+Added:
+
+-   New commands
+
 ### 1.0.0
 
 Initial release of TecnoCode
 
 ---
-
 
 ## Author
 
