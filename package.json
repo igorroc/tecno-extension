@@ -2,9 +2,9 @@
 	"name": "tecnocode",
 	"displayName": "TecnoCode",
 	"description": "Uma extensão para os desenvolvedores da TecnoJr",
-	"icon": "https://raw.githubusercontent.com/igorroc/tecno-extension/main/assets/white_logo.png",
+	"icon": "assets/white_logo.png",
 	"publisher": "tecnojr",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
